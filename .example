@@ -1,0 +1,15 @@
+.database.env example 
+
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_DB=
+
+
+.env example
+
+DATABASE_URL=postgresql://postgres:postgres@db:port/db_name
+DEBUG=
+SECRET_KEY=
+ALLOWED_HOSTS=
+
+
