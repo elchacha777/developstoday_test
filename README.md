@@ -48,6 +48,10 @@ docker-compose up
 ```
 
 
+## Deploy
+GCP deploy 
+
+http://146.148.99.78/api/v1/register/
 
 ## Documentation
 
