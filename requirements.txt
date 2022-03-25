@@ -1,0 +1,13 @@
+Django==3.2
+djangorestframework==3.12
+psycopg2-binary==2.8.6
+dj-database-url==0.5.0
+python-decouple==3.4
+djangorestframework_simplejwt
+gunicorn==20.1.0
+django-background-tasks
+black
+flake8
+pyright
+
+
