@@ -14,12 +14,9 @@ class Post(models.Model):
         on_delete=models.CASCADE,
         related_name="posts",
     )
-    
-
 
     def __str__(self) -> str:
         return f"{self.title}  {self.create_date}"
-    
 
 
 class Comment(models.Model):
